@@ -1,0 +1,35 @@
+{
+  "name": "lazy-mongodb",
+  "version": "0.0.0",
+  "main": "lazy-mongodb.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "author": "Dan MacTough <danmactough@gmail.com> (http://yabfog.com/)",
+  "license": "BSD",
+  "dependencies": {
+    "mongodb": "^1.4.2"
+  },
+  "devDependencies": {
+    "mocha": "^1.18.2",
+    "idgen": "^2.0.2"
+  },
+  "description": "A lazy connection client for MongoDB, so you don't have to deal with the asynchronous connection method provided by mongodb-native",
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [
+    "mongo",
+    "mongodb",
+    "lazy",
+    "promise"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/danmactough/node-lazy-mongodb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/danmactough/node-lazy-mongodb/issues"
+  },
+  "homepage": "https://github.com/danmactough/node-lazy-mongodb"
+}
