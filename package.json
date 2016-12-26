@@ -8,10 +8,10 @@
   "author": "Dan MacTough <danmactough@gmail.com> (http://yabfog.com/)",
   "license": "BSD",
   "dependencies": {
-    "mongodb": "^1.4.2"
+    "mongodb": "^2.2.16"
   },
   "devDependencies": {
-    "mocha": "^1.18.2",
+    "mocha": "^3.2.0",
     "idgen": "^2.0.2"
   },
   "description": "A lazy connection client for MongoDB, so you don't have to deal with the asynchronous connection method provided by mongodb-native",
