@@ -1,6 +1,8 @@
 lazy-mongodb
 ============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/danmactough/node-lazy-mongodb.svg)](https://greenkeeper.io/)
+
 A lazy connection client for MongoDB, so you don't have to deal with the
 asynchronous connection method provided by [mongodb-native](https://github.com/mongodb/node-mongodb-native).
 
